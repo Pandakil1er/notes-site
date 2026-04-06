@@ -1,3 +1,4 @@
 [submodule "content"]
 	path = content
 	url = https://github.com/Pandakil1er/Notes.git
+  branch = main
