@@ -30,6 +30,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/Pandakil1er",
       LinkedIn: "https://www.linkedin.com/in/anshaj-kant-singh-437b25256/",
+      Blogs: "https://www.ansuzks.me",
     },
   }),
 }

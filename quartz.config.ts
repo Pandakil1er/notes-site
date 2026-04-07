@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "ansuzks.me",
+    pageTitle: "notes.ansuzks.me",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: false, // cleaner blog feel
